@@ -78,3 +78,5 @@ The **Customer Service Dashboard** provides insights into customer interactions,
 ---
 
 The customer service dashboard provides valuable insights into agent efficiency, customer satisfaction, and interaction trends. By **enhancing complaint resolution, balancing workloads, and leveraging automation**, customer satisfaction can improve while reducing agent burnout. These insights help refine service strategies and ensure a seamless customer experience.
+
+![alt text](image.png)
